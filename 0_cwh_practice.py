@@ -195,6 +195,37 @@
 #         print('*',end=' ')
 #     print()
 
+# no. of occurance with count for given word
+# w = 'google'
+# d = {}
+# for i in range(len(w)):
+#     if w[i] in d.keys():
+#         val = d[w[i]]
+#         d[w[i]] = val+1
+#     else:
+#         d[w[i]] = 1
+#
+# s = ''
+# for i,j in d.items():
+#     s = s+str(j)+str(i)+','
+# print(s)
+
+# print only adjacent pair of given word
+# w = 'google'
+# l = list(w)
+# pos = 0
+# while pos != len(l)-1:
+#     if l[pos] == l[pos+1]:
+#         l.pop(pos)
+#         l.pop(pos)
+#         if pos !=0:
+#             pos = pos -1
+#     else:
+#         pos+=1
+# s=''
+# for i in l:
+#    s = s+i
+# print(s)
 
 
 
