@@ -226,7 +226,17 @@
 # for i in l:
 #    s = s+i
 # print(s)
+# prime number
+num = int(input())
+prime = True
 
+# for i in range(2,(num//2)+1):
+#     if num%i == 0:
+#         print(num,'not prime')
+#         prime = False
+#         break
+# if prime == True:
+#     print(num,'is prime')
 
 
 
