@@ -1,0 +1,10 @@
+Drank water at 2022-12-12 23:09:17.939689
+Eye care done at 2022-12-12 23:09:50.216727
+Exercise done at 2022-12-12 23:09:56.318465
+Drank water at 2022-12-12 23:15:21.002511
+Eye care done at 2022-12-12 23:15:29.226392
+Exercise done at 2022-12-12 23:15:36.427209
+Drank water at 2022-12-12 23:23:15.035174
+Eye care done at 2022-12-12 23:23:57.642035
+Exercise done at 2022-12-12 23:24:23.664986
+Drank water at 2022-12-12 23:25:11.988184
